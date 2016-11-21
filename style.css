@@ -6,3 +6,9 @@ body{
 background-color: grey;
 color: white;
 }
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
